@@ -1,1 +1,8 @@
 //Introduction
+
+>46% of companies online use WordPress.
+
+**Goals**:
+Customise your own theme
+Add Pages, Posts and Media
+Publish your site
