@@ -6,3 +6,8 @@
 Customise your own theme
 Add Pages, Posts and Media
 Publish your site
+
+WordPress.com is a service that hosts WordPress.
+
+Click `+` to open the inserter. Then click the block you want to add.
+ 
